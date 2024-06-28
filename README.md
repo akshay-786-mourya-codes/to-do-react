@@ -1,5 +1,9 @@
+![Screenshot 2024-06-28 225132](https://github.com/akshay-786-mourya-codes/to-do-react/assets/118037033/1725a672-49fd-4be9-8770-ef492d7633f5)
+![Screenshot 2024-06-28 225145](https://github.com/akshay-786-mourya-codes/to-do-react/assets/118037033/20963a6d-adfd-42d6-88b1-85be8370028b)
 Todo-List-React-APP
 Prokect link -
+
+
 https://yours-todo-list.netlify.app/
 
 functionality :
@@ -19,4 +23,5 @@ Mark as Completed:
 Users can mark tasks as completed without deleting them.
 This involves toggling the task's state and applying styling to denote completion.
 In the project directory, you can run:
-  npm run dev
+ 
+	npm run dev
